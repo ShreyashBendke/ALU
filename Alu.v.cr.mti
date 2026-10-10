@@ -1,0 +1,15 @@
+D:/ModelSimProjects/alu.v {1 {vlog -work work -stats=none D:/ModelSimProjects/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/ModelSimProjects/alu_tb.v {1 {vlog -work work -stats=none D:/ModelSimProjects/alu_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}}
